@@ -1,6 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> id="title" -->
 # Peace Within Ourselves
 ## 1 Thessalonians 5:12-24
+
+[Jake Givens](https://unsplash.com/photos/ocwmWiNAWGs "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -34,10 +36,13 @@
 + final section: practical **instr**
 
 ---
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> id="outline" -->
 ## Living at Peace [(1Thes5b)](# "ref")
-1. Love for One Another [(12-16)](# "ref")
-1. Joy in the Lord [(17-22)](# "ref")
-1. Holiness Until His Return [(22-24)](# "ref")
+1. **Love** for One Another [(12-16)](# "ref")
+1. **Joy** in the Lord [(17-22)](# "ref")
+1. **Holiness** Until His Return [(22-24)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + we like these, **straightforward**
@@ -46,9 +51,11 @@
 + "just tell me what I should be **doing**!"
 
 ---
+<!-- .slide: <%= bg("unsplash-U5Bl72Brlhs-lily.jpg") %> -->
 Be at **peace** among yourselves. 
 
 [1 Thessalonians 5:13b (ESV)](# "ref")
+[Paweł Czerwiński](https://unsplash.com/photos/U5Bl72Brlhs "caption")
 
 >>>
 + one **verb**: "be at peace", "be peaceful"
@@ -66,6 +73,7 @@ Be at **peace** among yourselves.
 + C. Those who **Wrong** Us
 
 ---
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
 We ask you, brothers, to respect </br>
 those who **labor** among you </br>
 and are **over** you in the Lord </br>
@@ -76,6 +84,7 @@ and to esteem them very highly </br>
 in **love** because of their work. 
 
 [1 Thessalonians 5:12-13a (ESV)](# "ref")
+[Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
 >>>
 + not just **pastors** / preachers:
@@ -90,11 +99,13 @@ in **love** because of their work.
   + as worth **labouring** for
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 And we urge you, brothers, admonish the **idle**, </br>
 encourage the **fainthearted**, help the **weak**, </br>
 be **patient** with them all. 
 
 [1 Thessalonians 5:14 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + "idle": not **arranged** properly
@@ -109,11 +120,13 @@ be **patient** with them all.
   + e.g., **nurse** to severely ill patient
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 See that no one **repays** anyone evil for evil, </br>
 but always **seek** to do good </br>
 to one another and to everyone. 
 
 [1 Thessalonians 5:15 (ESV)](# "ref")
+[Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
 + when **wronged**: not **fair**: the **right** to repay?
@@ -139,7 +152,13 @@ to one another and to everyone.
 + pursue doing **good** to all
 
 ---
-## (outline)
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> -->
+## Living at Peace [(1Thes5b)](# "ref")
+1. Love for One Another [(12-16)](# "ref")
+1. **Joy in the Lord** [(17-22)](# "ref")
+1. Holiness Until His Return [(22-24)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + being at peace w/ **God**
@@ -150,6 +169,7 @@ to one another and to everyone.
   + finding our **joy** in Him alone
 
 ---
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 **Rejoice** always, 
 [17](# "ref")
 **pray** without ceasing, </br>
@@ -159,6 +179,7 @@ for this is the will of God </br>
 in Christ Jesus for you. 
 
 [1 Thessalonians 5:16-18 (ESV)](# "ref")
+[Laguna de Icalma, Chile. Jorge Barahona](https://unsplash.com/photos/8GVGrjx82oo "caption")
 
 >>>
 + how to stay **joyful** w/so much **evil**?
@@ -173,6 +194,7 @@ in Christ Jesus for you.
   + Rejoice see HS's **work** in believers:
 
 ---
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> -->
 For now we **live**, <br>
 if you are **standing** fast in the Lord. 
 
@@ -181,6 +203,7 @@ for you, for all the **joy** that we feel <br>
 for your sake before our God
 
 [1 Thessalonians 3:8-9 (ESV)](# "ref")
+[Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po) "caption")
 
 >>>
 + joy is **blessing** from God
@@ -190,6 +213,7 @@ for your sake before our God
 + Has God left us w/o **guidance**? No
 
 ---
+<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> -->
 Do not quench the **Spirit**. </br>
 [20](# "ref")
 Do not despise **prophecies**, </br>
@@ -200,6 +224,7 @@ but **test** everything; </br>
 **Abstain** from every form of evil.
 
 [1 Thessalonians 5:19-22 (ESV)](# "ref")
+[Perros-Guirec, France. Erwan Hesry](https://unsplash.com/photos/WPTHZkA-M4I "caption")
 
 >>>
 + HS fans our spirits **aflame**: desire, courage
@@ -226,13 +251,20 @@ but **test** everything; </br>
   + to repent, forgive, reconcile, intercede?
 
 ---
-## (outline)
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> -->
+## Living at Peace [(1Thes5b)](# "ref")
+1. Love for One Another [(12-16)](# "ref")
+1. Joy in the Lord [(17-22)](# "ref")
+1. **Holiness Until His Return** [(22-24)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + as our source of **joy** is God himself
 + so also our **peace** is Christ himself
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 Now may the God of peace himself </br>
 **sanctify** you completely,
 
@@ -244,6 +276,7 @@ of our Lord Jesus Christ.
 He who calls you is **faithful**; he will surely do it.
 
 [1 Thessalonians 5:23-24 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + optative mood: earnest **wish** / desire for God
@@ -258,6 +291,7 @@ He who calls you is **faithful**; he will surely do it.
   + only bc **Christ** taking the penalty:
 
 ---
+<!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
 For God has not destined us for **wrath**, <br>
 but to obtain **salvation** through <br>
 our Lord Jesus Christ, who died for us <br>
@@ -265,6 +299,7 @@ so that whether we are **awake or asleep** <br>
 we might **live** with him
 
 [1 Thesssalonians 5:9-10 (ESV)](# "ref")
+[Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
 + Our lifelong **pursuit** of holiness is
@@ -292,7 +327,7 @@ we might **live** with him
   + and bring deep-rooted **peace**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> class="empty" -->
 >>>
 + Your **holiness** + **majesty** surpass all creation
   + Your **love** + **mercy** reach down to even us
