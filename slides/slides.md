@@ -256,8 +256,10 @@ He who calls you is **faithful**; he will surely do it.
 + cf **prev** self: maybe progress, maybe not
   + cf **others**: maybe holy-ish?
 + but **completely** holy? spirit/soul/body?
-+ Only God of **peace** has that authority
-  + and only through gracious **Redeemer**:
+  + God doesn't grade on **curve**
+  + but cf His **own** perfection
++ totally **blameless**: w/o charge, **accusation**
+  + only bc **Christ** taking the penalty:
 
 ---
 For God has not destined us for **wrath**, <br>
@@ -278,6 +280,33 @@ we might **live** with him
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Am I a **good** person?
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ if like me, **gut** reaction is sth like:
+  + "well, not **perfect**, but **trying**..."
+  + then list good **deeds**
++ **stop**: no, I am a **wretched** sinner
+  + I don't **like** it, or **revel** in it
+  + but **realistically**, cf God
++ **made** holy + **kept** holy
+  + solely by Christ's **grace**
++ blessed **assurance** sink in my heart
+  + and bring deep-rooted **peace**
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+>>>
++ Your **holiness** + **majesty** surpass all creation
+  + Your **love** + **mercy** reach down to even us
++ Our spirits long to **respond** in love + obedience
++ Increase our **love** to one another:
+  + those who **lead** us in faith
+  + those around who are **weak** / faint
+  + even those who **wrong** us
++ **Joy** derived from **You**: presence, Word, HS
++ faith You keep us **holy** til Your return
++ lives **praise** You, and so bring us **peace**
++ "You arouse us so that praising you may bring us joy, because you have made us and drawn us to yourself, and our heart is restless until it rests in you."
 
