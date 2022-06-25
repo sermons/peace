@@ -67,10 +67,12 @@ Be at **peace** among yourselves.
   + to **live** at peace
 
 ---
-## 1. Peace Toward One Another
+## 1. Peace Toward <br> One Another
 + A. **Leaders** in Christ
 + B. **Weak** and Fainthearted
 + C. Those who **Wrong** Us
+
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -203,7 +205,7 @@ for you, for all the **joy** that we feel <br>
 for your sake before our God
 
 [1 Thessalonians 3:8-9 (ESV)](# "ref")
-[Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po) "caption")
+[Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po "caption")
 
 >>>
 + joy is **blessing** from God
@@ -213,7 +215,7 @@ for your sake before our God
 + Has God left us w/o **guidance**? No
 
 ---
-<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
 Do not quench the **Spirit**. </br>
 [20](# "ref")
 Do not despise **prophecies**, </br>
@@ -224,7 +226,7 @@ but **test** everything; </br>
 **Abstain** from every form of evil.
 
 [1 Thessalonians 5:19-22 (ESV)](# "ref")
-[Perros-Guirec, France. Erwan Hesry](https://unsplash.com/photos/WPTHZkA-M4I "caption")
+[Sören Sandbothe](https://unsplash.com/photos/lQ1uirYz8qI "caption")
 
 >>>
 + HS fans our spirits **aflame**: desire, courage
@@ -240,7 +242,7 @@ but **test** everything; </br>
 
 ---
 <!-- .slide: data-background="white" -->
-# How can I **rejoice** in every situation?
+# How can I **rejoice** <br> in every situation?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -273,7 +275,8 @@ be **kept blameless** at the coming </br>
 of our Lord Jesus Christ. 
 
 [24](# "ref")
-He who calls you is **faithful**; he will surely do it.
+He who calls you is **faithful**; <br>
+he will surely do it.
 
 [1 Thessalonians 5:23-24 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
