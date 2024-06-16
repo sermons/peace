@@ -33,7 +33,7 @@
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Theme of 1Thes: encouragment in **FHL**
++ Theme of 1Thes: encour. in **FHL**
 + 1st half: Thes' **rl** w/Paul 
   + and **response** to gospel
 + 2nd half: addr specific **Qs** / issues
@@ -50,9 +50,9 @@
 
 >>>
 + we like these, **straightforward**
-+ not narrative, poetry, ancient names/dates
++ not narrative, poetry, names/dates
   + far-off promises, theory/theology
-+ "just tell me what I should be **doing**!"
++ "just tell me what to **do**!"
 
 ---
 <!-- .slide: <%= bg("unsplash-U5Bl72Brlhs-lily.jpg") %> -->
@@ -66,9 +66,9 @@ Be at **peace** among yourselves.
 >>>
 + one **verb**: "be at peace", "be peaceful"
 + "**in** yourselves" (within, amongst)
-+ not state of being we randomly **fall** into
++ not **state** of being we **fall** into
   + not env s.o. else **creates** for us
-+ **action**, imperative: what we do
++ but **action**, imperative: what we do
   + as **people** of peace
   + to **live** at peace
 
@@ -79,6 +79,9 @@ Be at **peace** among yourselves.
 + A. **Leaders** in Christ <br> 主裡的領袖們
 + B. **Weak** and Fainthearted <br> 軟弱和膽怯的弟兄
 + C. Those who **Wrong** Us <br> 冤枉我們的人
+
+>>>
++ toward 3 groups in particular:
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -96,7 +99,7 @@ and **admonish** you,
 [Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
 >>>
-(continue reading)
+(v12-13, p.1/2)
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -114,7 +117,8 @@ in **love** because of their work.
 + (2) "over": not **above**, but stand **before**
   + **lead**, take on **responsib.**
   + go before: set example in Christ
-+ (3) "admonish": appeal to **reason**, teach
++ (3) "admonish": 
+  + appeal to **reason**, teach
 + "deem them aboundingly in **love**"
   + not that they're **infalliable**
 + but see your **progress** in faith
@@ -139,8 +143,9 @@ be **patient** with them all.
 + "faint": little **soul** / life
   + **heart's** just not into it
 + "**weak**": ill, frail
-+ "admon." (v12): appeal to **reason**, not coerce
-+ "encourage": words of **comfort** / gentleness
++ "admon." (cf v12): 
+  + appeal to **reason**, not coerce
++ "encourage": **comfort** / gentleness
   + not **annoyed**, impatient
 + "help": **hold** fast to, stick with
   + e.g., **nurse** to severely ill patient
@@ -159,16 +164,18 @@ to one another and to everyone.
 [Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
-+ when **wronged**: not **fair**: the **right** to repay?
-+ let them know how it **feels**
++ when **wronged**, we feel not **fair**: 
+  + Do I have **right** to repay?
++ Let them know how it **feels**
   + lest they think selves **right**
 + **justified**, legit excuse to fight
   + e.g., worry out of **practise** arguing
-+ If **free** to choose, what do I **seek**? pursue, chase
-+ How often have we **wronged** God, but
-  + does He look for **excuse** to punish?
++ If **free** to choose, what do I **seek**? 
+  + pursue, chase
++ How often we've **wronged** God -- but
+  + does He find **excuse** to punish?
 + He would be **just** to do so, but
-  + He looks for excuse to show **mercy**
+  + Inclines to show **mercy**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -178,7 +185,8 @@ to one another and to everyone.
 
 >>>
 + will I **seek** them out, to
-+ **ack** those who've toiled for my prog in Chr
++ **ack** those who've toiled 
+  + for my progress in Christ
 + **comfort** + hold fast to the weak
 + pursue doing **good** to all
 
@@ -215,7 +223,7 @@ in Christ Jesus for you.
 
 >>>
 + how to stay **joyful** w/so much **evil**?
-  + **war** in Ukraine, 6M COVID deaths
+  + **wars** in Ukraine, Gaza
   + **injustice** + inequity *(theodicy)*
 + joy bc "at least didn't happen to **me**"?
 + No: joy in **person** of Christ: glory, holy
@@ -237,7 +245,7 @@ if you are **standing** fast in the Lord.
 [Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po "caption")
 
 >>>
-(continue reading)
+(v8-9, p.1/2)
 
 ---
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> -->
@@ -253,9 +261,9 @@ for your sake before our God?
 
 >>>
 + joy is **blessing** from God
-  + privil to partic in God's work
+  + privil to particip in God's work
   + see faith **strengthened** amid trial
-+ result is **thanksgv** to God
++ result is **thanksgiving** to God
 + Has God left us w/o **guidance**? No
 
 ---
@@ -274,10 +282,11 @@ but **test** everything; **hold fast** what is good. </br>
 [Sören Sandbothe](https://unsplash.com/photos/lQ1uirYz8qI "caption")
 
 >>>
-+ HS fans our spirits **aflame**: desire, courage
-+ prophecy: **Word** of God:
-  + when Bible's admonition is **uncomfort**
-  + don't **look away**, deem unimport
++ HS fans our spirits **aflame**: 
+  + desire, courage
++ prophecy: **Word** of God: when Bible's 
+  + admonition is **uncomfort**,
++ don't **look away**, deem unimport
   + **rationalise** or excuse
 + "test": examine to know if **true**
   + not all **claimed** proph is proph
@@ -294,8 +303,8 @@ but **test** everything; **hold fast** what is good. </br>
 + depends on what **others** do?
   + depends on achieving my **goals**?
 + In **tune** w/HS?  stirring a **flame** in me
-  + that I've been ignoring / putting off?
-  + to repent, forgive, reconcile, intercede?
+  + Have I **ignored** / put off?
++ to repent, forgive, reconcile, intercede
 
 ---
 <!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> class="outline" -->
@@ -321,7 +330,7 @@ Now may the God of peace himself </br>
 [Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
-(continue reading)
+(v23-24, p.1/3)
 
 ---
 <!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
@@ -336,7 +345,7 @@ of our Lord Jesus Christ.
 [1 Thessalonians 帖撒羅尼迦前書 5:23b (ESV/CUV)](# "ref")
 
 >>>
-(continue reading)
+(v23-24, p.2/3)
 
 ---
 <!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
@@ -349,10 +358,11 @@ he will surely do it.
 [1 Thessalonians 帖撒羅尼迦前書 5:24 (ESV/CUV)](# "ref")
 
 >>>
-+ optative mood: earnest **wish** / desire for God
++ "May the God of peace": optative mood:
+  + earnest **wish** / desire for God
 + to **make** us holy + **keep** us holy
 + But don't **feel** holy?  **try**, but **fail** often
-+ cf **prev** self: maybe progress, maybe not
++ cf **prev** self: progress? or not?
   + cf **others**: maybe holy-ish?
 
 ---
@@ -369,11 +379,15 @@ of our Lord Jesus Christ.
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
-+ but **completely** holy? spirit/soul/body?
-  + God doesn't grade on **curve**
+*(no read)*
+
++ but **completely** holy? 
+  + spirit / soul / body?
++ God doesn't grade on **curve**
   + but cf His **own** perfection
-+ totally **blameless**: w/o charge, **accusation**
-  + only bc **Christ** taking the penalty:
++ totally **blameless**: 
+  + w/o charge, **accusation**
++ only bc **Christ** took penalty for us:
 
 ---
 <!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
@@ -389,7 +403,7 @@ our Lord Jesus Christ,
 [Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
-(continue reading)
+(v9-10, p.1/2)
 
 ---
 <!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
@@ -407,7 +421,7 @@ we might **live** with him
 >>>
 + Our lifelong **pursuit** of holiness is
 + not to **curry** favour with perfect God
-+ but **response** to grace He already exten
++ but **resp** to grace already extended
 + **called** us to salvation
   + **faithful** to His promises
   + so we **trust** He will do it
@@ -424,23 +438,29 @@ we might **live** with him
 + **stop**: no, I am a **wretched** sinner
   + I don't **like** it, or **revel** in it
   + but **realistically**, cf God
-+ **made** holy + **kept** holy
++ We are **made** holy + **kept** holy
   + solely by Christ's **grace**
-+ blessed **assurance** sink in my heart
++ Blessed **assurance** sink in my heart
   + and bring deep-rooted **peace**
 
 ---
 <!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> class="empty" -->
 >>>
-+ Your **holiness** + **majesty** surpass all creation
-  + Your **love** + **mercy** reach down to even us
-+ Our spirits long to **respond** in love + obedience
++ Your **holiness** + **majesty** 
+  + surpass all creation
++ Your **love** + **mercy** 
+  + reach down to even us
++ Our spirits long to **respond** 
+  + in love + obedience
 + Increase our **love** to one another:
   + those who **lead** us in faith
   + those around who are **weak** / faint
   + even those who **wrong** us
-+ **Joy** derived from **You**: presence, Word, HS
-+ faith You keep us **holy** til Your return
-+ lives **praise** You, and so bring us **peace**
-+ "You arouse us so that praising you may bring us joy, because you have made us and drawn us to yourself, and our heart is restless until it rests in you."
++ **Joy** derived from **You**: 
+  + Your presence, Word, HS
++ Faith You keep us **holy** til Your return
++ lives **praise** You, 
+  + and so bring us **peace**
+
+> "You arouse us so that praising you may bring us joy, because you have made us and drawn us to yourself, and our heart is restless until it rests in you."
 
