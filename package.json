@@ -13,13 +13,19 @@
     "cname": "peace.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "7d36ea108af952b6"
+      "id": "965293e6190a7692"
     },
     "git": {
       "name": "Sean Ho",
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2024-06-16",
+        "duration": 0
+      },
       {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
