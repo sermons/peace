@@ -11,6 +11,7 @@
 <!-- .element: class="r-fit-text" -->
 
 >>>
++ with **others**, in **own** heart, with **God**
 + not **absence** of open conflict
 + not **dissociation** from responsib
 + not elusive, transcend. **state** of being
