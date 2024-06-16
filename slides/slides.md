@@ -74,11 +74,11 @@ Be at **peace** among yourselves.
 
 ---
 ## 1. Peace Toward One Another <br> 彼此和睦
+<!-- .element: class="r-fit-text" -->
+
 + A. **Leaders** in Christ <br> 主裡的領袖們
 + B. **Weak** and Fainthearted <br> 軟弱和膽怯的弟兄
 + C. Those who **Wrong** Us <br> 冤枉我們的人
-
-<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -347,7 +347,6 @@ he will surely do it.
 他必成就這事。
 
 [1 Thessalonians 帖撒羅尼迦前書 5:24 (ESV/CUV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + optative mood: earnest **wish** / desire for God
@@ -357,7 +356,7 @@ he will surely do it.
   + cf **others**: maybe holy-ish?
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 and may your whole spirit and soul and body </br>
 be **kept blameless** at the coming </br>
 of our Lord Jesus Christ. 
@@ -367,6 +366,7 @@ of our Lord Jesus Christ.
 完全無可指摘！
 
 [1 Thessalonians 帖撒羅尼迦前書 5:23b (ESV/CUV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + but **completely** holy? spirit/soul/body?
